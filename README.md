@@ -1,2 +1,2 @@
-# Tourism-Management-System
+# Hospital-Management-System
 A health care application for patients using Java, MySQL
